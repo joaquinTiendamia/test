@@ -1,0 +1,79 @@
+{
+    "marketplace_products": [
+        {
+        "availability": {
+            "stock": true
+        },
+        "brand": "Apple",
+        "category": [],
+        "category_details": [],
+        "delivery_data": {
+            "fulfill_by": "amazon.com",
+            "sold_by": "Amazon.com",
+            "vendor_delivery_day": "2022-10-10T03:02:15Z"
+        },
+        "dimension": "",
+        "images": [
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/91z5KuonXrL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/81LNgb-7FnL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/911Gc7IMlmL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/91g08EO6xoL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/91vph8AhY8L._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/81bdp1-AySL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/81mik1zN55L._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/71e+4Nz3zUL._AC_SL1500_.jpg"
+            }
+        ],
+        "isbn": "",
+        "large_description": "",
+        "name": "Apple Watch Ultra - Titanium Case with Orange Alpine Loop",
+        "prices": {
+            "price": 854.93
+        },
+        "product_status": "new",
+        "rating": {
+            "number": 0,
+            "total": 0
+        },
+        "short_description": "",
+        "sku": "B0BDJK4G9C",
+        "sliders": [],
+        "variations": [],
+        "merchant_url": "https://www.amazon.com/dp/B0BDJK4G9C/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "vendor_url": "https://www.amazon.com/dp/B0BDJK4G9C/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "reviews_url": "",
+        "weight": 0.420933376,
+        "merchant_returns": true,
+        "is_digital_product": false,
+        "price": {
+            "price": 854.93
+        },
+        "id": "AMZ-B0BDJK4G9C",
+        "merchant": "amz",
+        "is_market_place_product": true
+        }
+    ]
+}

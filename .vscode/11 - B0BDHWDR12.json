@@ -1,0 +1,67 @@
+{
+    "marketplace_products": [
+        {
+        "availability": {
+            "stock": true
+        },
+        "brand": "Apple",
+        "category": [],
+        "category_details": [],
+        "delivery_data": {
+            "fulfill_by": "amazon.com",
+            "sold_by": "Amazon.com",
+            "vendor_delivery_day": "2022-10-10T03:05:54Z"
+        },
+        "dimension": "",
+        "images": [
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/61sRKTAfrhL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/51emillNpWL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/51+vJkbGtJL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/51s3yLTjWSL._AC_SL1500_.jpg"
+            }
+        ],
+        "isbn": "",
+        "large_description": "",
+        "name": "Apple AirPods Pro (2ª generación) auriculares inalámbricos con funda de carga MagSafe.",
+        "prices": {
+            "price": 266.43
+        },
+        "product_status": "new",
+        "rating": {
+            "number": 0,
+            "total": 0
+        },
+        "short_description": "Active Noise Cancellation reduces unwanted background noise<br>Adaptive Transparency lets outside sounds in while reducing loud environmental noise<br>Personalized Spatial Audio with dynamic head tracking places sound all around you<br>Multiple ear tips (XS, S, M, L)<br>Touch control lets you swipe to adjust volume, press to direct media playback, answer or end calls, and press and hold to switch between listening modes<br>Sweat and water resistant for AirPods Pro and charging case<br>MagSafe Charging Case with speaker and lanyard loop",
+        "sku": "B0BDHWDR12",
+        "sliders": [],
+        "variations": [],
+        "merchant_url": "https://www.amazon.com/dp/B0BDHWDR12/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "vendor_url": "https://www.amazon.com/dp/B0BDHWDR12/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "reviews_url": "",
+        "weight": 0.42184056000000003,
+        "merchant_returns": true,
+        "is_digital_product": false,
+        "price": {
+            "price": 266.43
+        },
+        "id": "AMZ-B0BDHWDR12",
+        "merchant": "amz",
+        "is_market_place_product": true
+        }
+    ]
+}

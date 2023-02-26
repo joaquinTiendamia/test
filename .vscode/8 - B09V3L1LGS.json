@@ -1,0 +1,72 @@
+{
+    "marketplace_products": [
+        {
+        "availability": {
+            "stock": true
+        },
+        "brand": "Apple",
+        "category": [],
+        "category_details": [],
+        "delivery_data": {
+            "fulfill_by": "amazon.com",
+            "sold_by": "",
+            "vendor_delivery_day": "2022-10-10T02:59:20Z"
+        },
+        "dimension": "",
+        "images": [
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/71yzJoE7WlL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/61fUC+17f8L._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/71QU1-kvp0L._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/71pOW6LpyfL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/91Qil-6Kq8L._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/61LZEm1O64L._AC_SL1500_.jpg"
+            }
+        ],
+        "isbn": "",
+        "large_description": "",
+        "name": "iPhone 14 Pro Max 1TB Deep Purple",
+        "prices": {
+            "price": 1710.93
+        },
+        "product_status": "new",
+        "rating": {
+            "number": 4.7,
+            "total": 24
+        },
+        "short_description": "6.7-inch Super Retina XDR display featuring Always-On and ProMotion <br> Dynamic Island, a magical new way to interact with iPhone <br> 48MP Main camera for up to 4x greater resolution <br> Cinematic mode now in 4K Dolby Vision up to 30 fps <br> Action mode for smooth, steady, handheld videos <br> Vital safety features—Emergency SOS via satellite and Crash Detection <br> All-day battery life and up to 29 hours of video playback <br> A16 Bionic, the ultimate smartphone chip. Superfast 5G cellular <br> Industry-leading durability features with Ceramic Shield and water resistance <br> iOS 16 offers even more ways to personalize, communicate, and share",
+        "sku": "B09V3L1LGS",
+        "sliders": [],
+        "variations": [],
+        "merchant_url": "https://www.amazon.com/dp/B09V3L1LGS/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "vendor_url": "https://www.amazon.co.uk/iPhone-Pro-512GB-Deep-Purple/dp/B0BDJ9B66D?th=1",
+        "reviews_url": "",
+        "weight": 0.407779208,
+        "merchant_returns": true,
+        "is_digital_product": false,
+        "image": "https://m.media-amazon.com/images/I/71yzJoE7WlL._AC_UY218_.jpg",
+        "price": {
+            "price": 1710.93
+        },
+        "id": "AMZ-B09V3L1LGS",
+        "merchant": "amz",
+        "is_market_place_product": true
+        }
+    ]
+}

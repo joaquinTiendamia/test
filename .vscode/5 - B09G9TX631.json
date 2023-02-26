@@ -1,0 +1,68 @@
+{
+    "marketplace_products": [
+        {
+           "availability": {
+            "stock": true
+        },
+        "brand": "Apple",
+        "category": [],
+        "category_details": [],
+        "delivery_data": {
+            "fulfill_by": "amazon.com",
+            "sold_by": "",
+            "vendor_delivery_day": "2022-10-05T12:00:00Z"
+        },
+        "dimension": "",
+        "images": [
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/61ofpWT1PHL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/711yt5-rPLL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/71pOW6LpyfL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/91Qil-6Kq8L._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/61b6XVN780L._AC_SL1500_.jpg"
+            }
+        ],
+        "isbn": "",
+        "large_description": "",
+        "name": "iPhone 14 Pro 128GB Space Black",
+        "prices": {
+            "price": 1068.93
+        },
+        "product_status": "new",
+        "rating": {
+            "number": 5,
+            "total": 51
+        },
+        "short_description": "6.1-inch Super Retina XDR display featuring Always-On and ProMotion<br>Dynamic Island, a magical new way to interact with iPhone<br>48MP Main camera for up to 4x greater resolution<br>Cinematic mode now in 4K Dolby Vision up to 30 fps<br>Action mode for smooth, steady, handheld videos<br>Vital safety features—Emergency SOS via satellite and Crash Detection<br>All-day battery life and up to 23 hours of video playback<br>A16 Bionic, the ultimate smartphone chip. Superfast 5G cellular<br>Industry-leading durability features with Ceramic Shield and water resistance<br>iOS 16 offers even more ways to personalize, communicate, and share",
+        "sku": "B09G9TX631",
+        "sliders": [],
+        "variations": [],
+        "merchant_url": "https://www.amazon.com/dp/B09G9TX631/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "vendor_url": "https://www.amazon.com/dp/B09G9TX631/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "reviews_url": "",
+        "weight": 0.9,
+        "merchant_returns": true,
+        "is_digital_product": false,
+        "id": "AMZ-B09G9TX631",
+        "merchant": "amz",
+        "is_market_place_product": true
+        }
+    ]
+}

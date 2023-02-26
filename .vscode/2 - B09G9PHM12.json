@@ -1,0 +1,69 @@
+{
+    "marketplace_products": [
+        {
+            "availability": {
+            "stock": true
+        },
+        "brand": "Apple",
+        "category": [],
+        "category_details": [],
+       "deliverydata": {
+            "fulfill_by": "amazon.com",
+            "sold_by": "",
+            "vendor_delivery_day": "2022-10-05T12:00:00Z"
+        },
+        "dimension": "",
+        "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
+        "images": [
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/51Sn5X2gfaL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/71RFKttvm9L._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/81EuTJJ63xL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/61ULQN8++8L._AC_SL1500_.jpg"
+            }
+        ],
+        "isbn": "",
+        "large_description": "",
+        "name": "iPhone 14 128GB Blue",
+        "prices": {
+            "price": 854.93
+        },
+        "product_status": "new",
+        "rating": {
+            "number": 0,
+            "total": 0
+        },
+        "short_description": "6.1-inch Super Retina XDR display <br> Advanced camera system for better photos in any light <br> Cinematic mode now in 4K Dolby Vision up to 30 fps <br> Action mode for smooth, steady, handheld videos <br> Vital safety features—Emergency SOS via satellite and Crash Detection <br> All-day battery life and up to 20 hours of video playback <br> A15 Bionic chip with 5-core GPU for lightning-fast performance. Superfast 5G cellular <br> Industry-leading durability features with Ceramic Shield and <br> water resistance <br> iOS 16 offers even more ways to personalize, communicate, and share",
+        "sku": "B09G9PHM12",
+        "sliders": [],
+        "variations": [],
+        "merchant_url": "https://www.amazon.com/dp/B09G9PHM12/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "vendor_url": "https://www.amazon.com/dp/B09G9PHM12/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "reviews_url": "",
+        "weight": 0.9,
+        "merchant_returns": true,
+        "is_digital_product": false,
+        "id": "AMZ-B09G9PHM12",
+        "merchant": "amz",
+        "is_market_place_product": true
+        }
+    ]
+}

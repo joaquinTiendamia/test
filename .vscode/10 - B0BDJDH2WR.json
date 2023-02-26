@@ -1,0 +1,72 @@
+{
+    "marketplace_products": [
+        {
+        "availability": {
+            "stock": true,
+            "stock_count": 5
+        },
+        "brand": "Apple",
+        "category": [],
+        "category_details": [],
+        "delivery_data": {
+            "fulfill_by": "amazon.com",
+            "sold_by": "Amazon.com",
+            "vendor_delivery_day": "2022-10-10T03:04:23Z"
+        },
+        "dimension": "",
+        "images": [
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/71XMTLtZd5L._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/71-P6fRDDjL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/81NNLgQNc4L._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/91379s2K5VL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/71RGoMLzMBL._AC_SL1500_.jpg"
+            },
+            {
+                "alt": "",
+                "src": "https://m.media-amazon.com/images/I/61UJHMYxJ0L._AC_SL1500_.jpg"
+            }
+        ],
+        "isbn": "",
+        "large_description": "",
+        "name": "Apple Watch Series 8 GPS 44mm Midnight Aluminium",
+        "prices": {
+            "price": 459.03
+        },
+        "product_status": "new",
+        "rating": {
+            "number": 0,
+            "total": 0
+        },
+        "short_description": "WHY APPLE WATCH SERIES 8 — Your essential companion for a healthy life is now even more powerful. Advanced sensors provide insights to help you better understand your health. New safety features can get you help when you need it. The bright, Always-On Retina display is easy to read, even when your wrist is down.<br>EASILY CUSTOMIZABLE — Available in a range of sizes and materials, with dozens of bands to choose from and watch faces with complications tailored to whatever you’re into.<br>INNOVATIVE SAFETY FEATURES — Crash Detection and Fall Detection can automatically connect you with emergency services in the event of a severe car crash or a hard fall. And Emergency SOS provides urgent assistance with the press of a button.<br>ADVANCED HEALTH FEATURES — Temperature sensing is a breakthrough feature that provides deep insights into women’s health. Keep an eye on your blood oxygen. Take an ECG anytime. Get notifications if you have an irregular rhythm. And see how much time you spent in REM, Core, or Deep sleep with Sleep Stages.<br>SIMPLY COMPATIBLE — It works seamlessly with your Apple devices and services. Unlock your Mac automatically. Find your devices with a tap. Pay and send money with Apple Pay. Apple Watch requires an iPhone 8 or later with the latest iOS version.<br>INCREDIBLE DURABILITY — Tougher than tough. It’s crack resistant, IP6X-certified dust resistant, and swimproof with WR50 water resistance.<br>A POWERFUL FITNESS PARTNER — The enhanced Workout app gives you new ways to train, and advanced metrics for more information about your workout performance. And Apple Watch comes with three months of Apple Fitness+ free.",
+        "sku": "B0BDJDH2WR",
+        "sliders": [],
+        "variations": [],
+        "merchant_url": "https://www.amazon.com/dp/B0BDJDH2WR/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "vendor_url": "https://www.amazon.com/dp/B0BDJDH2WR/ref=twister_dp_update?ie=UTF8&psc=1&language=en_US",
+        "reviews_url": "",
+        "weight": 0.39008912,
+        "merchant_returns": true,
+        "is_digital_product": false,
+        "price": {
+            "price": 459.03
+        },
+        "id": "AMZ-B0BDJDH2WR",
+        "merchant": "amz",
+        "is_market_place_product": true
+        }
+    ]
+}
